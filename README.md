@@ -53,7 +53,7 @@
   users/{id}/feed     (GET)       = feed de fotos do usuário {id}
   users/{id}/photos   (GET)       = fotos do usuário {id}
   users/{id}/follow   (POST)      = seguir usuário {id}
-  users/{id}/follow   (DELETE)      = deseguir usuário {id}
+  users/{id}/follow   (DELETE)    = deseguir usuário {id}
   
   photos/random       (GET)       = fotos aleatórias
   photos/new          (POST)      = inserir nova foto
